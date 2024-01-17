@@ -1,0 +1,114 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .banner{
+        flex-direction: column;
+        
+    }
+    .bannerimg{
+        margin: 0px;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .bannerform{
+        margin: 10px;
+    }
+    .testinfo{
+        flex-direction: column;
+        gap: 30px;
+    
+    }
+    .testdetails{
+        margin: 0px 10px;
+    }
+    .testdetails2{
+        margin: 0px 10px;
+        margin: 0px 10px;
+    }
+    .testdetails3{
+        margin: 0px 10px;
+        margin: 0px 10px;
+    }
+    .testinfobottom1{
+        margin: 0px 10px;
+        margin: 0px 10px;
+    }
+    .testinfobottom2{
+        margin: 0px 10px;
+        margin: 0px 10px;
+    }
+    .container h2{
+    font-size: 24px;
+    line-height: 36px;
+    }
+    .contentmid{
+        display: none;
+    }
+    .landin h2{
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .landinmain{
+        background: none;
+        flex-direction: column;
+    }
+    .left1{
+        text-align: center;
+        position: inherit;
+        line-height: 30px;
+        margin: 20px 0px;
+    }
+    .left2{
+        text-align: center;
+        position: inherit;
+        padding: 0px 5%;
+        margin: 20px 30px;
+        line-height: 30px;
+        
+    }
+    .mediaimg1{
+        display: block;
+    }
+    .right1{
+        text-align: center;
+        position: inherit;
+        line-height: 30px;
+        margin: 20px 0px;
+        padding: 0px 10%;
+    }
+    .right2{
+        text-align: center;
+        position: inherit;
+        line-height: 30px;
+        margin: 20px 0px;
+        padding: 0px 10%;
+    }
+    th{
+        padding: 10px 5%;
+        font-size: 14px;
+    }
+    td{
+        padding: 10px 2%;
+        font-size: 14px;
+    }
+    .testtask h2{
+       font-size: 24px;
+    }
+    .couresscontet{
+        flex-direction: column;
+    }
+    .couresscontener{
+        padding: 10PX 0PX;
+        margin: 0PX 10PX;
+    }
+    .graduatedrow{
+        flex-direction: column;
+        margin: 0px;
+    }
+    .rankholder{
+        margin: 10px 10px;
+    }
+    .video{
+        padding: 8px;
+    }
+    
+    
+}
